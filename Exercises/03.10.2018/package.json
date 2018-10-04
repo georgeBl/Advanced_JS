@@ -1,0 +1,11 @@
+{
+  "name": "arrowfunctions",
+  "version": "1.0.0",
+  "description": "-> Rewriting functions from ES5 to ES6 using arrow functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Blanaru",
+  "license": "ISC"
+}

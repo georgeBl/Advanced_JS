@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <style>
+  
+    </style>
+<body>
+
+<input type="text" id="password" class="normal">
+    
+    <script type="text/javascript">
+        
+        document.getElementById("password").addEventListener("input", () =>{
+            
+            console.log("function called");
+            if(document.getElementById("password").value.length<6){
+               document.getElementById("password").style.color = "red"; 
+            }  else if (document.getElementById("password").value.length<11) {
+                document.getElementById("password").style.color = "orange"; 
+            }else {
+                document.getElementById("password").style.color = "green"; 
+            }
+        });
+    </script>
+
+</body>
+</html>

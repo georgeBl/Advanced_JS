@@ -88,7 +88,7 @@ console.log(posNums);
 
 //ex 9 - Using reduce()
 const prices = [1,10,1,1,1];
-// const totalPrice = 0;
+// const totalPrice = 0; - optional
 const res = prices.reduce((totalPrice,val) =>{
   console.log('total', totalPrice);
   console.log('val', val);

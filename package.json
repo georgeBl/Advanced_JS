@@ -1,0 +1,19 @@
+{
+  "name": "advanced-javascript",
+  "version": "1.0.0",
+  "description": "Exercies, programs and stuff\r ###George Blanaru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeBl/Advanced_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeBl/Advanced_JS/issues"
+  },
+  "homepage": "https://github.com/georgeBl/Advanced_JS#readme"
+}
